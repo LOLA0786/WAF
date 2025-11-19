@@ -1,1 +1,1 @@
-"""Module initialization"""
+"""Package initialization"""
